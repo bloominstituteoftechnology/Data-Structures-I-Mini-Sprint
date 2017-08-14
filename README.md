@@ -4,7 +4,7 @@ In this mini sprint, you'll be exploring the different data structures that were
 
 This will mostly consist of you reading about these structures more in-depth, as well as interacting with them via their methods in order to get an understanding of what each method is doing. To that end, there are some great visualization tools out there on the internet that will help to give you a clear sense of how each data structure stores and retrieves pieces of data. 
 
-The primary part of this mini sprint should be spent exploring [this](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) site of data structure visualizations. As you can see, they have a bunch of visualizations on much more advanced data structures and algorithms. For now, just focus on the stacks, queues, and hash table visualizations (specifically, closed hash table using buckets). Play around with them, test out all of their different methods, and really try to think about how you would go about implementing these data structures along with their associated methods.
+The primary part of this mini sprint should be spent exploring [this site of data structure visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html). As you can see, they have a bunch of visualizations on much more advanced data structures and algorithms. For now, just focus on the stacks, queues, and hash table visualizations (specifically, closed hash table using buckets). Play around with them, test out all of their different methods, and really try to think about how you would go about implementing these data structures along with their associated methods.
 
 Here are a bunch of links to articles and sites that delve more deeply into the concepts we touched upon in the lecture:
 
