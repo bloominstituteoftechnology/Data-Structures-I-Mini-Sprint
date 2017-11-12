@@ -1,8 +1,11 @@
-# Data Structures I Mini 
+# Data Structures I Mini
 
-In this mini sprint, you'll be exploring the different data structures that were introduced in the lecture. The main point of this mini sprint is to give you some exposure to these structures from the perspective of users before you have to go and implement them yourself in the actual sprint. 
+* please consider adding this course to the minisprint for future classes, i found it very helpful
+* https://www.interviewcake.com/data-structures-and-algorithms-guide  -- great short course on data structures/big o notation 
 
-This will mostly consist of you reading about these structures more in-depth, as well as interacting with them via their methods in order to get an understanding of what each method is doing. To that end, there are some great visualization tools out there on the internet that will help to give you a clear sense of how each data structure stores and retrieves pieces of data. 
+In this mini sprint, you'll be exploring the different data structures that were introduced in the lecture. The main point of this mini sprint is to give you some exposure to these structures from the perspective of users before you have to go and implement them yourself in the actual sprint.
+
+This will mostly consist of you reading about these structures more in-depth, as well as interacting with them via their methods in order to get an understanding of what each method is doing. To that end, there are some great visualization tools out there on the internet that will help to give you a clear sense of how each data structure stores and retrieves pieces of data.
 
 The primary part of this mini sprint should be spent exploring [this site of data structure visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html). As you can see, they have a bunch of visualizations on much more advanced data structures and algorithms. For now, just focus on the stacks, queues, and hash table visualizations (specifically, Closed Hash Tables using buckets). Play around with them, test out all of their different methods, and really try to think about how you would go about implementing these data structures along with their associated methods.
 
